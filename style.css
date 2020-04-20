@@ -1,0 +1,20 @@
+body{
+    background: #eee;
+    }
+#form{
+border: solid gray 1px;
+width:240px;
+border-radius:10px;
+margin: 100px auto;
+background: gray;
+padding: 50px;
+}
+#btn{
+color: #fff;
+background: #337ab7;
+padding: 16px 90px;
+margin-left: 6px;
+border-radius:4px;
+border:2px;
+border-color:gray;
+}
